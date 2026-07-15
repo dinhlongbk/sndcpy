@@ -4,6 +4,7 @@ android {
     compileSdkVersion 31
 
     defaultConfig {
+        namespace = "com.rom1v.sndcpy"
         applicationId "com.rom1v.sndcpy"
         minSdkVersion 29
         targetSdkVersion 31
